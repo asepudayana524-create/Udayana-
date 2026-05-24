@@ -1,0 +1,6 @@
+{
+  "name": "Film Drama Indonesia",
+  "description": "Temukan, jelajahi, dan diskusikan film drama Indonesia terbaik dengan asisten rekomendasi AI pintar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
